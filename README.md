@@ -50,3 +50,22 @@ If Ollama is disabled/unavailable, the application uses a transparent determinis
 4. Add a new Process 101.
 5. Analyze it using the same endpoint.
 6. Refresh and demonstrate persistence.
+
+## Screenshots
+
+### Dashboard & Analysis Completed
+![Analysis Completed](docs/screenshots/analysis-completed.png)
+
+### Process Analysis
+![Analyze Process](docs/screenshots/analyze-process.png)
+
+### Evidence & Research
+![Evidence](docs/screenshots/evidence.png)
+
+### Human-Led Candidates
+![Human-Led Candidates](docs/screenshots/human-led-candidates.png)
+
+### Top 10 AI Opportunities
+![Top 10 AI Opportunities](docs/screenshots/top-10-ai-opportunities.png)
+
+
